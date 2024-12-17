@@ -31,7 +31,7 @@ Clone o Repositório:
 ```
 bash
 Copiar código
-git clone https://github.com/[seu-usuario]/detona-ralph-aula.git
+git clone https://github.com/[AmandaStefaniz]/detona-ralph-aula.git
 ````
 
 Abra o Arquivo index.html no seu navegador preferido.
